@@ -1,5 +1,8 @@
 _repo: Histoire-de-Mademoiselle-Brion-dite-Comtesse-de-Launay-1754-Introduction-Essai-bibliographiqu__58254
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58254-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6075
     wikipedia: http://en.wikipedia.org/wiki/Guillaume_Apollinaire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58254#Histoire-de-Mademoiselle-Brion-dite-Comtesse-de-Launay-1754-Introduction-Essai-bibliographiqu_
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Séduction et libertinage
