@@ -1,0 +1,41 @@
+_repo: Histoire-de-Mademoiselle-Brion-dite-Comtesse-de-Launay-1754-Introduction-Essai-bibliographiqu__58254
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+  editor:
+    agent_name: Apollinaire, Guillaume
+    aliases:
+    - Kostrowisky, Guillaume de
+    - De Kostrowisky, Guillaume
+    - Apollinaris de Kostrowitzky, Wilhelm
+    - Kostrowitzky, Wilhelm Apollinaris de
+    birthdate: 1880
+    deathdate: 1918
+    gutenberg_agent_id: '6075'
+    url: http://www.gutenberg.org/2009/agents/6075
+    wikipedia: http://en.wikipedia.org/wiki/Guillaume_Apollinaire
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Séduction et libertinage
+gutenberg_issued: '2018-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58254'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Histoire de Mademoiselle Brion dite Comtesse de Launay (1754)
+
+  Introduction, Essai bibliographique par Guillaume Apollinaire'
+url: http://www.gutenberg.org/ebooks/58254
